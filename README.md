@@ -79,6 +79,4 @@ mercadinho/
 
 ---
 
-**Status:** Projeto em desenvolvimento.
-
 Desenvolvido por [Kayo Julian](https://github.com/kayolindo58).
