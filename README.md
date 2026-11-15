@@ -77,17 +77,6 @@ mercadinho/
 └── mercado.php
 ```
 
-## 🔧 Próximas evoluções
-
-O projeto pode evoluir para um sistema de compras mais completo, incorporando:
-
-- Validação das opções e dos produtos selecionados.
-- Controle de quantidade por produto.
-- Atualização automática do estoque.
-- Cálculo do subtotal e valor total do carrinho.
-- Remoção de produtos do carrinho.
-- Finalização e resumo da compra.
-
 ---
 
 **Status:** Projeto em desenvolvimento.
